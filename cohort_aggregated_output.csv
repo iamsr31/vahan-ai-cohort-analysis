@@ -1,0 +1,13 @@
+lead_source,uploaded_leads,attempted,connected,interested,onboarded,ft_after_upload,ft_after_first_attempt,attempted_pct,attempt_to_connect_pct,connect_to_interested_pct,ft_rate_per_uploaded_pct,ft_rate_per_attempted_pct,avg_hrs_to_first_attempt
+Single Referral > 7 days- 24th Jul,1500,1454,690,7,30,14,2,96.93,47.46,1.01,0.933,0.963,43.9
+Khanna- 2W 26th Jul,1546,1376,574,20,39,14,6,89.0,41.72,3.48,0.906,1.017,19.6
+PreOb-Ob Fees Paid 29th Jul (set 1),1482,1433,650,103,15,7,2,96.69,45.36,15.85,0.472,0.488,7.5
+PreOb-Ob Fees Paid 29th Jul (set 2),1558,1519,735,122,14,7,5,97.5,48.39,16.6,0.449,0.461,9.0
+AI Connected but not Connected by TC- Set 1,1480,1331,694,29,9,5,0,89.93,52.14,4.18,0.338,0.376,17.5
+AI Connected but not Connected by TC- Set 2,1193,1066,466,26,6,2,0,89.35,43.71,5.58,0.168,0.188,15.2
+Khanna AI,886,245,137,2,3,1,0,27.65,55.92,1.46,0.113,0.408,-141.5
+OLX - Ashwin - 2W - 17 Jul,5182,962,372,9,3,4,2,18.56,38.67,2.42,0.077,0.416,22.8
+AI Connected band Not Interested,2137,1359,637,21,0,0,0,63.59,46.87,3.3,0.0,0.0,20.4
+2W3W - 3WEV - Khanna - 3W - 17 Jul,201,201,91,1,0,0,0,100.0,45.27,1.1,0.0,0.0,174.9
+2W3W - 3WCNG - Khanna - 3W - 17 Jul,530,530,291,1,0,0,0,100.0,54.91,0.34,0.0,0.0,159.6
+2W3W - 3WAHD - Khanna - 3W - 17 Jul,495,495,212,7,0,0,0,100.0,42.83,3.3,0.0,0.0,125.2
